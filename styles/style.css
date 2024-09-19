@@ -223,7 +223,7 @@ a {
 /*! header end  */
 
 /*! home start  */
-/* Add this CSS for rotating background */
+/* For rotating background */
 .home {
   position: relative;
   overflow: hidden;
@@ -246,7 +246,7 @@ a {
   background-size: cover;
   transform-origin: center;
   transform: translate(-50%, -50%) rotate(0deg); /* Başlangıç dönüşü */
-  animation: spinBackground 60s linear infinite; /* Sürekli döndüren animasyon */
+  animation: spinBackground 200s linear infinite; /* Sürekli döndüren animasyon */
 }
 
 .home .content {

@@ -62,5 +62,5 @@ document.addEventListener("DOMContentLoaded", function () {
   // hidden time
   setTimeout(() => {
     dailySpecialElement.classList.add("hidden");
-  }, 6000); // 6 saniye sonra kaybolur
+  }, 20000); // 20 saniye sonra kaybolur
 });
